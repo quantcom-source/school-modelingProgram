@@ -1,1 +1,1 @@
-# school-modelingDemo
+# school-modelingProgram
